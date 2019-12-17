@@ -2,5 +2,5 @@
 
 * [概览](account/iam/overview)
 * 授信管理
-    * [授信其他云服务账号](account/iam/CrossAccountAccess)
+    * [授信其他云服务账号](account/iam/cross_account_access)
     
